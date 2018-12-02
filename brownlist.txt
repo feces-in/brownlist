@@ -95,3 +95,4 @@ weekday
 year
 log-utils
 ansi-wrap
+is-feces
